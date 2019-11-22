@@ -1,0 +1,12 @@
+CACHE MANIFEST
+#v0.1.8
+
+CACHE:
+index.html
+assets/application.css
+assets/application.js
+assets/codemirror.css
+assets/codemirror.js
+assets/favicon.ico
+assets/filesaver.min.js
+assets/save.png
